@@ -1,5 +1,14 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/712/147/743/snow-snowflakes-ice-icicles-wallpaper-preview.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Bungee';
+  text-align: center;
+  color: #000000;
+}
+
+#olaf {
+  position: fixed;
 }
 
 footer {
@@ -8,11 +17,9 @@ footer {
   bottom: 8px;
   left: 0;
   right: 0;
-  text-align: center;
-  color: #303030;
 }
 
 footer a {
   text-decoration: none;
-  color: #303030;
+  color: #000000;
 }
